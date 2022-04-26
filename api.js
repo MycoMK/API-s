@@ -7,6 +7,6 @@ fetch('https://reqres.in/api/users')
 const body = document.body
 const div = document.createElement('div')
 // div.innerText = 'Hello World'
-div.innerHTML = '<strong>Hello World</strong>'
+div.innerHTML = '<strong>Hello World, It is a beautifull day , </strong>'
 
 body.append(div)
